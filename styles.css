@@ -1,0 +1,22 @@
+/* add your CSS here */
+#container
+{
+  border:solid;
+  padding:50px;
+}
+#interesting-fact
+{
+  font-style:italic;
+    
+
+}
+.animal-info
+{
+  padding:50px;
+  border:solid;
+}
+#facts
+{
+   list-style-type:none;
+  font-weight:bold;
+}
